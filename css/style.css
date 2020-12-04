@@ -32,6 +32,21 @@ nav .navbar-nav .nav-item .nav-link{
   font-weight: bold;
   transition: all .3s ease-in-out; /*time to change the color*/
 }
+.dropdown-item{
+  font-size: 11px;
+  color: #1e1e1e;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  transition: all .3s ease-in-out;
+}
+.dropdown-item:hover{
+  font-size: 11px;
+  color: #f55858;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
 nav .navbar-nav .nav-item .nav-link:hover{
   font-size: 11px;
   color: #f55858;
